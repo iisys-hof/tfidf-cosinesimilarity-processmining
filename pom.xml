@@ -74,7 +74,7 @@
 	  	<dependency>
         <groupId>org.nuxeo.ecm.automation</groupId>
         <artifactId>nuxeo-automation-client</artifactId>
-        <version>7.4</version>
+        <version>10.1</version>
         <classifier>jar-with-dependencies</classifier>
      </dependency>
   </dependencies>
